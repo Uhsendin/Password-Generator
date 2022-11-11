@@ -61,6 +61,9 @@ button {
   margin: 51px 307px 35px 52px;
   cursor: pointer;
 }
+button:hover {
+  background-color: #11c78a;
+}
 
 hr {
   border: 1px solid #2f3e53;
